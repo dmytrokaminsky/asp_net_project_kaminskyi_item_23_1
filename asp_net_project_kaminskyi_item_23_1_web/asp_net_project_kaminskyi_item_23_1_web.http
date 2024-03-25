@@ -1,0 +1,6 @@
+@asp_net_project_kaminskyi_item_23_1_web_HostAddress = http://localhost:5168
+
+GET {{asp_net_project_kaminskyi_item_23_1_web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
